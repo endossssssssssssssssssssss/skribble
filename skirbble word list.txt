@@ -11,6 +11,11 @@ plug
 song
 bronze
 metro
+conveyor belt
+paper
+cassette
+driveway
+fist
 crescent
 green beans
 dip
@@ -20,6 +25,8 @@ professor
 vector
 morocco
 high five
+sandy cheecks
+cyclops
 app
 lightsaber
 crab
