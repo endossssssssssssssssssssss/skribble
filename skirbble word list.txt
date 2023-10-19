@@ -18,6 +18,12 @@ song
 bronze
 metro
 conveyor belt
+refresh
+screwdriver
+strength
+shakespeare 
+girlfriend
+platform
 paper
 cassette
 driveway
